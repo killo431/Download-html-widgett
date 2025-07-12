@@ -9,7 +9,6 @@
     <h1>🧩 Vanilla HTML Widget System</h1>
     <div data-widget="my-widget" class="widget-slot"></div>
     <div data-widget="super-card" class="widget-slot"></div>
-
     <script type="module" src="widget-loader.js"></script>
   </body>
 </html>
