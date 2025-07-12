@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #f0f2f5;
+  padding: 2rem;
+}
+h1 {
+  text-align: center;
+}
+.widget-slot {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 400px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
